@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+# Intellij ignored files
+.idea/workspace.xml
+.idea/misc.xml
+
+
 # Log file
 *.log
 
